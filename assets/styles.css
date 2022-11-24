@@ -1,0 +1,11 @@
+html{
+    font-size: 10px;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+a{
+    padding: 0 .3rem;
+    font-weight: bold;
+}
